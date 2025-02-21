@@ -2,7 +2,7 @@
 
 ## Professional Summary
 
--Holds 6+ years of experience in web application development, covering analysis, design, and maintenance while working effectively in both Agile and Waterfall environments.
+-Holds 6+ years of experience in web application development, covering analysis, design, and maintenance while working effectively in both Agile and Waterfall environments.<br>
 -Proficient in Java and Spring Boot, with expertise in microservices architecture, RESTful API development, and implementing security using OAuth2.0 and Spring Security.
 -Skilled in front-end development using ReactJS, Angular 11, and modern JavaScript frameworks, with expertise in building dynamic, responsive interfaces and managing state efficiently using Redux.
 -Strong backend expertise in Spring Boot, Spring MVC, Spring Data, Hibernate, and Java EE, developing scalable and high-performance enterprise applications.
