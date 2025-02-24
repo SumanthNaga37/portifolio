@@ -15,9 +15,7 @@
 -Proficient in API documentation and integration, using Swagger to define and document APIs effectively and Postman for testing and validating API functionalities.<br>
 -Knowledgeable in real-time data processing, implementing messaging solutions with  Apache Kafka and ActiveMQ to enable reliable event-driven communication across microservices.<br>
 -Skilled in monitoring and optimization, setting up logging and observability with ElasticSearch, Prometheus, Grafana, and the ELK Stack to track performance and maintain system health efficiently.<br>
--Adept in using development tools and IDEs, working with IntelliJ IDEA, Eclipse, Visual Studio Code, and PyCharm, along with version controls like Git, GitHub, and SVN, and build tools such as Maven and Gradle.<br>
--Experienced in technical leadership and collaboration, contributing to Agile processes like sprint planning and stand-ups while mentoring team members and leading technical discussions.<br>
--Certifications – Oracle Certified Associate, Java SE 8 Programmer (OCA), AWS Certified Solutions Architect – Associate.<br>
+
 
 #### Technical Skills:
 
@@ -35,20 +33,18 @@
 **Artificial Intelligence:** Machine Learning (NumPy, Pandas, TensorFlow), Deep Learning, Large Language Model (LLM).<br>
 
 ## Work Experience
-**Java Full Stack Developer @ Banking Services (_June 2022 - Present_)**
-- Developed a secure and scalable banking platform using ReactJS for an intuitive user interface and Spring Boot for backend services, ensuring seamless transaction management.<br>
-- Built dynamic and reusable UI components using ReactJS, optimizing performance and user experience while integrating Redux for efficient state management.<br>
-- Designed and developed microservices using Spring Boot, implementing a distributed architecture to handle large-scale banking operations.<br>
-- Implemented real-time fraud detection using Apache Kafka, processing transaction data streams to identify suspicious activities and trigger alerts.<br>
-- Optimized database performance using PostgreSQL, applying indexing and query optimization techniques to improve transaction processing speed.<br>
-- Integrated Redis caching for frequently accessed banking data, reducing latency and improving system responsiveness.<br>
-- Deployed banking microservices on AWS, utilizing EC2, S3, and Kubernetes to ensure high availability, scalability, and fault tolerance.<br>
-- Automated CI/CD pipelines using Jenkins and Docker, ensuring continuous integration, testing, and deployment with minimal downtime.<br>
-- Implemented OAuth 2.0 and JWT authentication, enforcing role-based access control (RBAC) and securing API endpoints for financial transactions.<br>
-- Developed RESTful APIs to integrate with third-party payment providers, ensuring secure and seamless fund transfers.<br>
-- Set up monitoring and logging using Prometheus, Grafana, and AWS CloudWatch, providing real-time insights into system health and transaction anomalies.<br>
-- Led front-end performance optimizations, improving page load times by 35% through lazy loading, memoization, and efficient API call handling.<br>
-- Collaborated with security teams to conduct penetration testing and compliance audits, ensuring the platform met PCI DSS security standards.<br>
+**Java Full Stack Developer @ Best Buy (_July 2024 - Present_)**
+- Developed an enterprise-level e-commerce application with a focus on scalable microservices architecture, enhancing user experience and operational efficiency.<br>
+- Designed microservices using Java and Spring Boot, ensuring modular development, scalability and maintainability across the platform.<br>
+- Built dynamic and responsive user interfaces using ReactJS, enhancing user experience and ensuring seamless interactions across devices.<br>
+- Integrated Redux for efficient state management, ensuring consistent data flow and seamless communication between frontend components.<br>
+- Implemented RESTful APIs with Spring Security and OAuth 2.0, providing secure communication and access control between microservices.<br>
+- Utilized Kafka for event-driven communication, achieving real-time synchronization and high availability across distributed systems.<br>
+- Architected modular microservices to enhance scalability and flexibility, enabling independent deployment and continuous integration.<br>
+- Optimized database interactions using Hibernate with MySQL, reducing query response time and enhancing overall system performance.<br>
+- Leveraged Kafka consumers for real-time data synchronization, ensuring consistency and accuracy across microservices.<br>
+- Deployed microservices on AWS using Docker and Kubernetes, achieving high scalability and availability during peak traffic events.<br>
+
 
 
 
