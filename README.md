@@ -14,7 +14,7 @@ Experienced Software Engineer with over 6 years in full-stack web development, p
 **Tools:** Git, SVN, Terraform, Jira, Confluence, Docker, Jenkins, Kubernetes, Eclipse, IntelliJ, Unix, Linux, Wireshark.<br>
 
 ## Work Experience
-**Java Full Stack Developer @ Best Buy (_July 2024 - Present_)**
+**Sr. Java Full Stack Developer @ Best Buy (_July 2024 - Present_)**
 - Developed an enterprise-level e-commerce application with a focus on scalable microservices architecture, enhancing user experience and operational efficiency.<br>
 - Designed microservices using Java and Spring Boot, ensuring modular development, scalability and maintainability across the platform.<br>
 - Built dynamic and responsive user interfaces using ReactJS, enhancing user experience and ensuring seamless interactions across devices.<br>
