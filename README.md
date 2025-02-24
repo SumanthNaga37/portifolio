@@ -46,11 +46,11 @@
 - Deployed microservices on AWS using Docker and Kubernetes, achieving high scalability and availability during peak traffic events.<br
 
 **Java Full Stack Developer @ Thoughtworks (_August 2023 - June 2024)**                                                                                                                                 
-Developed a full-stack application for an e-commerce client, enabling a seamless migration to Kafka for 18 teams, empowering users to efficiently manage topics, register schemas, and oversee schema versions.
-Designed robust RESTful APIs using Java, Spring Boot, and Maven, following MVC architecture principles and applying design patterns for maintainability. Integrated with Confluent Managed Kafka for message processing.
-Crafted the user interface using Angular, utilizing modules to enhance code structure and modularity while implementing Cypress automated end-to-end tests, reducing post-deployment bugs by 50%.
-Integrated Angular Material for styling, leveraging pre-built components to create a consistent, modern interface.
-Administered Keycloak for secure and centralized user management, enhancing authentication and authorization workflows.
+- Developed a full-stack application for an e-commerce client, enabling a seamless migration to Kafka for 18 teams, empowering users to efficiently manage topics, register schemas, and oversee schema versions.<br>
+- Designed robust RESTful APIs using Java, Spring Boot, and Maven, following MVC architecture principles and applying design patterns for maintainability. Integrated with Confluent Managed Kafka for message processing.<br>
+- Crafted the user interface using Angular, utilizing modules to enhance code structure and modularity while implementing Cypress automated end-to-end tests, reducing post-deployment bugs by 50%.<br>
+- Integrated Angular Material for styling, leveraging pre-built components to create a consistent, modern interface.<br>
+- Administered Keycloak for secure and centralized user management, enhancing authentication and authorization workflows.<br>
 
 
 ## Education					       		
