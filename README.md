@@ -43,10 +43,10 @@
 - Architected modular microservices to enhance scalability and flexibility, enabling independent deployment and continuous integration.<br>
 - Optimized database interactions using Hibernate with MySQL, reducing query response time and enhancing overall system performance.<br>
 - Leveraged Kafka consumers for real-time data synchronization, ensuring consistency and accuracy across microservices.<br>
-- Deployed microservices on AWS using Docker and Kubernetes, achieving high scalability and availability during peak traffic events.<br>
-
+- Deployed microservices on AWS using Docker and Kubernetes, achieving high scalability and availability during peak traffic events.<be>
 
 
 
 ## Education					       		
-- Master of Science, Information Technology	| University of Cincinnati (_December 2024_)	<br> 			        		
+- Master of Science, Information Technology	| University of Cincinnati (_December 2024_)	<br>
+- Bachelor of Technology, Computer Science	| Rajiv Gandhi University of Knowledge Technologies (_July 2021_)	<br> 			        		
