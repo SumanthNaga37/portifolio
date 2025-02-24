@@ -5,13 +5,13 @@ Experienced Software Engineer with over 6 years in full-stack web development, p
 
 #### Technical Skills:
 
-**Programming Languages:**  Java, Javascript, Typescript, Python, Golang.
-**Frameworks/ Libraries:**  React, Spring Boot, Angular, Express.js, Node.js, Spring MVC, Tailwind CSS, Material UI.
-**Web Technologies:** HTML, CSS,  XML, jQuery, Bootstrap, Spring Data JPA, SAML, REST, SOAP, Microservices, Kafka, Maven, Gradle, GraphQL, Webpack, Elastic Search, J2EE, Tomcat, npm, Splunk, Datadog, Grafana, SonarQube, Spring Security.
-**Databases:** MySQL, PostgreSQL, Oracle, MongoDB, DynamoDB, Redis, Stored Procedures, Indexing.
-**Testing:** Mockito, Junit, Jasmine, Jest, Mocha, Cypress, Selenium, Cucumber, Swagger, Postman. Test Driven Development.
-**Cloud Platforms:** Amazon web services, Google Cloud Platform, Azure.
-**Tools:** Git, SVN, Terraform, Jira, Confluence, Docker, Jenkins, Kubernetes, Eclipse, IntelliJ, Unix, Linux, Wireshark.
+**Programming Languages:**  Java, Javascript, Typescript, Python, Golang.<br>
+**Frameworks/ Libraries:**  React, Spring Boot, Angular, Express.js, Node.js, Spring MVC, Tailwind CSS, Material UI.<br>
+**Web Technologies:** HTML, CSS,  XML, jQuery, Bootstrap, Spring Data JPA, SAML, REST, SOAP, Microservices, Kafka, Maven, Gradle, GraphQL, Webpack, Elastic Search, J2EE, Tomcat, npm, Splunk, Datadog, Grafana, SonarQube, Spring Security.<br>
+**Databases:** MySQL, PostgreSQL, Oracle, MongoDB, DynamoDB, Redis, Stored Procedures, Indexing.<br>
+**Testing:** Mockito, Junit, Jasmine, Jest, Mocha, Cypress, Selenium, Cucumber, Swagger, Postman. Test Driven Development.<br>
+**Cloud Platforms:** Amazon web services, Google Cloud Platform, Azure.<br>
+**Tools:** Git, SVN, Terraform, Jira, Confluence, Docker, Jenkins, Kubernetes, Eclipse, IntelliJ, Unix, Linux, Wireshark.<br>
 
 ## Work Experience
 **Java Full Stack Developer @ Best Buy (_July 2024 - Present_)**
