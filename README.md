@@ -25,9 +25,9 @@ Experienced Software Engineer with over 6 years in full-stack web development, p
 - Crafted the user interface using Angular, utilizing modules to enhance code structure and modularity while implementing Cypress automated end-to-end tests, reducing post-deployment bugs by 50%.<br>
 
 **Software Developer @ Humana (_October 2021 - July 2023)**    
--Developed a cloud-based patient management system, using React for the front-end and Spring Boot for the backend to provide seamless patient data management and appointment scheduling.
--Designed and integrated RESTful APIs using Spring Boot, facilitating secure communication between the front-end and backend services.
--Optimized database performance using PostgreSQL, implementing indexing and query optimization to manage large volumes of patient data efficiently.
+-Developed a cloud-based patient management system, using React for the front-end and Spring Boot for the backend to provide seamless patient data management and appointment scheduling.<br>
+-Designed and integrated RESTful APIs using Spring Boot, facilitating secure communication between the front-end and backend services.<br>
+-Optimized database performance using PostgreSQL, implementing indexing and query optimization to manage large volumes of patient data efficiently.<br>
 
 
 ## Education					       		
