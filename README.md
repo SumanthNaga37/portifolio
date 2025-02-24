@@ -3,8 +3,7 @@
 ## Professional Summary
 Experienced Software Engineer with over 6 years in full-stack web development, proficient in Java, Spring Boot, and microservices architecture. Skilled in frontend technologies including ReactJS and Angular 11, with expertise in CI/CD pipelines, Docker, Kubernetes, and cloud platforms like AWS and Google Cloud. Strong background in database management, API development, real-time data processing with Apache Kafka, and monitoring using ElasticSearch and Grafana.
 
-#### Technical Skills:
-
+## Technical Skills:
 **Programming Languages:**  Java, Javascript, Typescript, Python, Golang.<br>
 **Frameworks/ Libraries:**  React, Spring Boot, Angular, Express.js, Node.js, Spring MVC, Tailwind CSS, Material UI.<br>
 **Web Technologies:** HTML, CSS,  XML, jQuery, Bootstrap, Spring Data JPA, SAML, REST, SOAP, Microservices, Kafka, Maven, Gradle, GraphQL, Webpack, Elastic Search, J2EE, Tomcat, npm, Splunk, Datadog, Grafana, SonarQube, Spring Security.<br>
@@ -24,6 +23,12 @@ Experienced Software Engineer with over 6 years in full-stack web development, p
 - Developed a full-stack application for an e-commerce client, enabling a seamless migration to Kafka for 18 teams, empowering users to efficiently manage topics, register schemas, and oversee schema versions.<br>
 - Designed robust RESTful APIs using Java, Spring Boot, and Maven, following MVC architecture principles and applying design patterns for maintainability. Integrated with Confluent Managed Kafka for message processing.<br>
 - Crafted the user interface using Angular, utilizing modules to enhance code structure and modularity while implementing Cypress automated end-to-end tests, reducing post-deployment bugs by 50%.<br>
+
+**Software Developer @ Humana (_October 2021 - July 2023)**    
+-Developed a cloud-based patient management system, using React for the front-end and Spring Boot for the backend to provide seamless patient data management and appointment scheduling.
+-Designed and integrated RESTful APIs using Spring Boot, facilitating secure communication between the front-end and backend services.
+-Optimized database performance using PostgreSQL, implementing indexing and query optimization to manage large volumes of patient data efficiently.
+
 
 ## Education					       		
 - Master of Science, Information Technology	| University of Cincinnati	<br>
