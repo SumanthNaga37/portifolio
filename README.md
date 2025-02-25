@@ -29,6 +29,11 @@ Experienced Software Engineer with over 6 years in full-stack web development, p
 - Designed and integrated RESTful APIs using Spring Boot, facilitating secure communication between the front-end and backend services<br>
 - Optimized database performance using PostgreSQL, implementing indexing and query optimization to manage large volumes of patient data efficiently.<br>
 
+**Software Developer @ Techwave (_August 2019 - September 2021)**   
+Developed a secure and scalable banking platform using  Angular for an intuitive user interface and Spring Boot for backend services, ensuring seamless transaction management.<br>
+Built dynamic and reusable UI components using ReactJS, optimizing performance and user experience while integrating Redux for efficient state management.<br>
+Designed and developed microservices using Spring Boot, implementing a distributed architecture to handle large-scale banking operations.<br>
+
 ## Education					       		
 - Master of Science, Information Technology	| University of Cincinnati	<br>
 - Bachelor of Technology, Computer Science	| Rajiv Gandhi University of Knowledge Technologies <br> 			        		
