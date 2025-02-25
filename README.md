@@ -24,15 +24,21 @@ Experienced Software Engineer with over 6 years in full-stack web development, p
 - Designed robust RESTful APIs using Java, Spring Boot, and Maven, following MVC architecture principles and applying design patterns for maintainability. Integrated with Confluent Managed Kafka for message processing.<br>
 - Crafted the user interface using Angular, utilizing modules to enhance code structure and modularity while implementing Cypress automated end-to-end tests, reducing post-deployment bugs by 50%.<br>
 
+**Java Full Stack Developer @ Thoughtworks (_August 2023 - June 2024)**                                                                                                                                
+- Developed a full-stack application for an e-commerce client, enabling a seamless migration to Kafka for 18 teams, empowering users to efficiently manage topics, register schemas, and oversee schema versions.<br>
+- Designed robust RESTful APIs using Java, Spring Boot, and Maven, following MVC architecture principles and applying design patterns for maintainability. Integrated with Confluent Managed Kafka for message processing.<br>
+- Crafted the user interface using Angular, utilizing modules to enhance code structure and modularity while implementing Cypress automated end-to-end tests, reducing post-deployment bugs by 50%.<br>
+
 **Software Developer @ Humana (_October 2021 - July 2023)**                                                                                                                                
 - Developed a cloud-based patient management system, using React for the front-end and Spring Boot for the backend to provide seamless patient data management and appointment scheduling.<br>
 - Designed and integrated RESTful APIs using Spring Boot, facilitating secure communication between the front-end and backend services<br>
 - Optimized database performance using PostgreSQL, implementing indexing and query optimization to manage large volumes of patient data efficiently.<br>
 
-**Software Developer @ Techwave (_August 2019 - September 2021)**   
--Developed a secure and scalable banking platform using  Angular for an intuitive user interface and Spring Boot for backend services, ensuring seamless transaction management.<br>
--Built dynamic and reusable UI components using ReactJS, optimizing performance and user experience while integrating Redux for efficient state management.<br>
--Designed and developed microservices using Spring Boot, implementing a distributed architecture to handle large-scale banking operations.<br>
+**Software Developer @ Humana (August 2019 - September 2021)**                                                                                                                                
+- Developed a secure and scalable banking platform using  Angular for an intuitive user interface and Spring Boot for backend services, ensuring seamless transaction management.<br>
+- Designed and developed microservices using Spring Boot, implementing a distributed architecture to handle large-scale banking operations.<br>
+- Implemented real-time fraud detection using Apache Kafka, processing transaction data streams to identify suspicious activities and trigger alerts.
+
 
 ## Education					       		
 - Master of Science, Information Technology	| University of Cincinnati	<br>
